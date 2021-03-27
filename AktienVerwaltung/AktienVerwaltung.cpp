@@ -1,10 +1,10 @@
 // AktienVerwaltung
-// Von Dorian Fetty & Stefan Peyfuß
+// Von Dorian Fetty & Stefan Peyfuï¿½
 
 #include <iostream>
 
 int main()
 {
-    input
+    std::cout << "hello aktien!" << std::endl;
 }
 
